@@ -1,0 +1,43 @@
+#root{
+    width: 700px;
+    margin: auto;
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#root a{
+	width: 150px; 
+	height: 150px; 
+	float: left; 
+	display: block; 
+	cursor: pointer; 
+	margin: 0 0 10px 10px; 
+	border: 1px solid black;
+}
+#root .color1{
+	background-color: red;
+}
+#root .color2{
+	background-color:orange;
+}
+#root .color3{
+	background-color: yellow;
+}
+#root .color4{
+	background-color: green;
+}
+#root .color5{
+	background-color: lightseagreen;
+}
+#root .color6{
+	background-color: blue;
+}
+#root .color7{
+	background-color: pink;
+}
+#root .color8{
+	background-color: black;
+}
+#root .hidden{
+	background-color: white;
+}
