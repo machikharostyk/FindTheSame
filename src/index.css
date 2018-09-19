@@ -1,7 +1,6 @@
 #root{
     width: 700px;
     margin: auto;
-    display: none;
     flex-direction: row;
     flex-wrap: wrap;
 }
@@ -40,4 +39,12 @@
 }
 #root .hidden{
 	background-color: white;
+}
+button{
+    height: 50px;
+    width: 100px;
+	display: block;
+	margin-left: 275px;
+	margin-bottom: 5%;
+	margin-top: 5%;
 }
